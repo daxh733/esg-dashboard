@@ -1,7 +1,7 @@
 
 {
   "name": "esg-dashboard",
-  "homepage": "https://daxh733.github.io/esg_dashboard",
+  "homepage": "https://daxh733.github.io/esg-dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
